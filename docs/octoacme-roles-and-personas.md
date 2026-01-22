@@ -283,4 +283,3 @@ This checklist clarifies key handoffs between roles to ensure smooth collaborati
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The Role Interaction Matrix helps visualize dependencies and collaboration patterns.
 - The Handoff Checklist ensures clear accountability during key project transitions.
-
